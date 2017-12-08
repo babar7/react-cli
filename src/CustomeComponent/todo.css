@@ -1,0 +1,40 @@
+.mainDiv{
+    margin: 0 auto;
+}
+.todo-input{
+    margin-left: 8rem;
+    height: 4rem;
+
+}
+
+.heading{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+hr{
+    background-color: black;
+    text-align: center;
+    width: 20%;    
+}
+.alert{
+    margin-top: 1rem;
+    margin-left: 8rem;
+    width: 67%;    
+
+}
+.li{
+    color: black;
+    font-size: large;
+    margin-top: 1rem;
+    margin-left: 8rem;
+    width: 87%;
+    padding-left: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.addTodo{   
+    width: 20%;
+    font-size: 20px;
+}
